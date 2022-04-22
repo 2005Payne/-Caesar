@@ -1,5 +1,5 @@
 #카이사르 암호<br>
-이 문제를 풀어야 해서 사용하였습니다.<br>
+이 문제를 풀때 필요하여 만들었습니다.<br>
 ![image](https://user-images.githubusercontent.com/88232976/164590198-fd91a9b7-0936-4a7e-af94-6cf4152fbdc3.png)<br>
 --------코드-----------<br>
 ![image](https://user-images.githubusercontent.com/88232976/164589893-b7ea14fb-ea46-4fca-94e4-05faceb8be8a.png)<br>
