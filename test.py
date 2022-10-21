@@ -1,6 +1,3 @@
-from ntpath import join
-
-
 a=list(input())
 key=int(input())
 for i in range(len(a)):
